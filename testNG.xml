@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite  name="Suite" parallel="false" >
+
+<listeners>
+<listener class-name="com.qa.ExtendedReportListner.ExtendedReportTestNG"/>
+<listener class-name="utilities.listnerClass"/>
+</listeners>
+
+  <test name="Test">
+    <classes>
+      <class name="testcases.loginTest"/>
+      <class name="testcases.dashboardPageTest"/>
+      <class name="testcases.prodctPageTest"/>
+      <class name="testcases.ManufacturerTest"/>
+      <class name="testcases.ConfigurationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

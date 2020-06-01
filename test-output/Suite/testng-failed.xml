@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.qa.ExtendedReportListner.ExtendedReportTestNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testcases.loginTest">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="tearDown"/>
+          <include name="varifyTitleOfLoginPage"/>
+        </methods>
+      </class> <!-- testcases.loginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

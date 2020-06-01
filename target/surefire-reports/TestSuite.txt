@@ -1,0 +1,101 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 9, Errors: 0, Skipped: 8, Time elapsed: 16.16 s <<< FAILURE! - in TestSuite
+testcases.dashboardPageTest.startBrowser  Time elapsed: 1.673 s  <<< FAILURE!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: /var/folders/z9/5bhzgl3937n...}, goog:chromeOptions: {debuggerAddress: localhost:61307}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1b1a1f07df489ccba21654b2b630f44f
+	at testcases.dashboardPageTest.startBrowser(dashboardPageTest.java:32)
+
+testcases.prodctPageTest.startBrowser  Time elapsed: 0.215 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: /var/folders/z9/5bhzgl3937n...}, goog:chromeOptions: {debuggerAddress: localhost:61307}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1b1a1f07df489ccba21654b2b630f44f
+*** Element info: {Using=id, value=Email}
+	at testcases.prodctPageTest.startBrowser(prodctPageTest.java:29)
+
+testcases.ManufacturerTest.startBrowser  Time elapsed: 0.216 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: /var/folders/z9/5bhzgl3937n...}, goog:chromeOptions: {debuggerAddress: localhost:61307}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1b1a1f07df489ccba21654b2b630f44f
+*** Element info: {Using=id, value=Email}
+	at testcases.ManufacturerTest.startBrowser(ManufacturerTest.java:32)
+
+testcases.loginTest.checkValidCredantial  Time elapsed: 0.008 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: /var/folders/z9/5bhzgl3937n...}, goog:chromeOptions: {debuggerAddress: localhost:61307}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1b1a1f07df489ccba21654b2b630f44f
+*** Element info: {Using=id, value=Email}
+	at testcases.loginTest.checkValidCredantial(loginTest.java:49)
+
+testcases.ManufacturerTest.tearDown  Time elapsed: 0.008 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:7830
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: driver.version: RemoteWebDriver
+	at testcases.ManufacturerTest.tearDown(ManufacturerTest.java:67)
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:7830
+	at testcases.ManufacturerTest.tearDown(ManufacturerTest.java:67)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at testcases.ManufacturerTest.tearDown(ManufacturerTest.java:67)
+
+testcases.prodctPageTest.tearDown  Time elapsed: 0.008 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:7830
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: driver.version: RemoteWebDriver
+	at testcases.prodctPageTest.tearDown(prodctPageTest.java:43)
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:7830
+	at testcases.prodctPageTest.tearDown(prodctPageTest.java:43)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at testcases.prodctPageTest.tearDown(prodctPageTest.java:43)
+
+testcases.loginTest.loginToApplication  Time elapsed: 0.009 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:7830
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: driver.version: RemoteWebDriver
+	at testcases.loginTest.loginToApplication(loginTest.java:33)
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:7830
+	at testcases.loginTest.loginToApplication(loginTest.java:33)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at testcases.loginTest.loginToApplication(loginTest.java:33)
+
+testcases.loginTest.varifyTitleOfLoginPage  Time elapsed: 0 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: driver.version: RemoteWebDriver
+	at testcases.loginTest.varifyTitleOfLoginPage(loginTest.java:60)
+
+testcases.loginTest.userNameErrormsg  Time elapsed: 0.003 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jays-MacBook-Air.local', ip: 'fe80:0:0:0:8d6:f973:eaee:5e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: driver.version: RemoteWebDriver
+	at testcases.loginTest.userNameErrormsg(loginTest.java:40)
+

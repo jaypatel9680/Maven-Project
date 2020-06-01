@@ -1,0 +1,1521 @@
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - verifying title of login page
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - verifying title of login page
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-1] INFO  testcases.dashboardPageTest  - List of Side menu
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - verifying title of login page
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-1] INFO  testcases.dashboardPageTest  - List of Side menu
+[TestNG-test=Test-3] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-4] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-4] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - verifying title of login page
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-4] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-4] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - verifying title of login page
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-4] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-4] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - verifying title of login page
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-3] INFO  testcases.dashboardPageTest  - List of Side menu
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testcases.dashboardPageTest  - List of Side menu
+[TestNG-test=Test-2] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testcases.dashboardPageTest  - List of Side menu
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-1] INFO  testbase.TestBase  - verifying title of login page
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testcases.dashboardPageTest  - List of Side menu
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testbase.TestBase  - adding new Manufacturer
+[TestNG-test=Test-1] INFO  testbase.TestBase  - verifying title of login page
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testcases.dashboardPageTest  - List of Side menu
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-4] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-4] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering password
+[TestNG-test=Test-2] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-4] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-4] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-4] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-4] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-3] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-4] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-2] INFO  testbase.TestBase  - verifying title of login page
+[TestNG-test=Test-1] INFO  pages.LoginPage  - entering username
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[TestNG-test=Test-2] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-4] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - maximizing browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-1] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-4] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[TestNG-test=Test-2] INFO  pages.LoginPage  - entering username
+[TestNG-test=Test-4] INFO  pages.LoginPage  - entering username
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  testbase.TestBase  - verifying title of login page
+[main] INFO  testbase.TestBase  - verifying Error message
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testcases.dashboardPageTest  - List of Side menu
+[main] INFO  testcases.dashboardPageTest  - List of catalog sub-menu
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new Manufacturer
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/jay/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  testbase.TestBase  - adding new product
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
+[main] INFO  testbase.TestBase  - maximizing browser
+[main] INFO  testbase.TestBase  - url : http://admin-demo.nopcommerce.com
+[main] INFO  pages.LoginPage  - entering username
+[main] INFO  pages.LoginPage  - entering password
+[main] INFO  pages.DashboradPage  - Clicking on Configuration Tab
+[main] INFO  pages.DashboradPage  - Clicking on EmailAccount Tab
